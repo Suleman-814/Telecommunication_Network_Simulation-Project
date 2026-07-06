@@ -1,4 +1,4 @@
-# Telecommunication Network Design (GNS3)
+# Telecommunication Network Design
 
 Project Overview
 This project demonstrates a secure enterprise telecommunication network designed and simulated using GNS3. 
