@@ -40,7 +40,7 @@ To make this project work, follow the steps below:
    - Secure access to routers and switches
 
 ## Note: 
-This project will only work inside GNS3. Without GNS3, the project cannot be played or tested.
+This project will only work inside GNS3. Without GNS3, the project cannot be played or tested. 
 
 
 ## Learning Outcomes:-
@@ -51,3 +51,4 @@ This project will only work inside GNS3. Without GNS3, the project cannot be pla
 - Hands-on simulation experience
 
 Thank You!!
+Stay Connected!!
